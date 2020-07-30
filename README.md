@@ -12,11 +12,19 @@ I know a lot of languages well so I'll just list a few that I either *like a lot
 
 I'm into audio programming, machine learning, server, client, web, hit me up if you have similar interests. Some places I can be reached:
 
-### Cooking
+### 🍺 Homebrewing
 
-Check out some vegan recipes in [this repo](https://github.com/thomasjwebb/recipes) also check out [this ig](https://www.instagram.com/shallotsanctuary/)
+I do small batches of all-grain brewing. See my recipes [here](https://snowplant.org/) and also the [profile on untappd](https://untappd.com/SnowPlant).
 
+### 🥙 Cooking
 
+Check out some vegan recipes in [this repo](https://github.com/thomasjwebb/recipes) also check out [this ig](https://www.instagram.com/shallotsanctuary/) and my occasional [food booth](https://panella.place/).
+
+### 🦇 Music
+
+I am a drummer, synth player and composer. I am a [certified Bitwig instructor](https://www.bitwig.com/en/community/certified/thomas-webb.html) and have made a [🎹 controller script](https://github.com/osakared/apc-key-25-bitwig) for it. I can also instruct on sound design, how synthesizers (of all types) work, etc. I also record music sometimes, [check out my recent release](https://fanlink.to/werewolf-of-paris) or listen to it below.
+
+<iframe src="https://open.spotify.com/embed/album/0bQFdHBDvggg3l7R86rDRN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 <!--
 **thomasjwebb/thomasjwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
