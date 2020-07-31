@@ -1,6 +1,8 @@
 ### About
 
-[![Twitter Badge](https://img.shields.io/badge/-@osakared-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/osakared)](https://twitter.com/osakared) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
+[![Twitter](https://img.shields.io/badge/-@osakared-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/osakared)](https://twitter.com/osakared)
+[![LinkedIn](https://img.shields.io/badge/-thomasjwebb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomasjwebb/)](https://www.linkedin.com/in/thomasjwebb/)
+[![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas@thomasjwebb.com)](mailto:thomas@thomasjwebb.com)
 
 (wip, I'm saving this and playing around so it's gonna look weird today -tjw)
 
