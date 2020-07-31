@@ -1,12 +1,12 @@
-[🇯🇵](README_jp.md)
-
-### 🧜🏻 About Thomas
+### 🧜🏻 トーマスについて
 
 [![Gitlab](https://img.shields.io/badge/-thomasjwebb-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/thomasjwebb)
 [![Twitter](https://img.shields.io/badge/-@osakared-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/osakared)
 [![LinkedIn](https://img.shields.io/badge/-thomasjwebb-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasjwebb/)
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
+
+🎮 2020/08 **I'll be at the virtual GDC** hmu
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
 
@@ -15,6 +15,14 @@ I blog on tech stuff [here](https://webbmaster.com).
 I'm behind the open source haxe audio libs [haxe grig](https://gitlab.com/haxe-grig), plus some other stuff.
 
 I'm into audio programming, machine learning, server, client, web, hit me up if you have similar interests.
+
+プログラマーです。[Osaka Red LLC](https://osakared.io)としてソフトウェアコンサルチングしています。
+
+[ここ](https://webbmaster.com)でテクノロジーについてのブログをしています。残念ながら全部は英語です。
+
+建材、[haxe grig](https://gitlab.com/haxe-grig)というオープンソース音響ソフトウェアを作っています。
+
+音響、機械学習、サーバー、ウェッブには興味があります。
 
 [![c](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)](http://www.c-faq.com/)
 [![c++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&ogoColor=white)](https://isocpp.org/)
