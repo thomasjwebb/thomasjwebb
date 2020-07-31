@@ -12,7 +12,7 @@
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
 
-I blog on tech stuff [here](https://webbmaster.com).
+I blog on tech stuff [here](https://webbmaster.com) and live stream open source coding [on twitch](https://www.twitch.tv/osakared/).
 
 I'm behind the open source haxe audio libs [haxe grig](https://gitlab.com/haxe-grig), plus some other stuff.
 
