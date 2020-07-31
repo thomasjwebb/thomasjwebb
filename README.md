@@ -1,4 +1,4 @@
-### 🧜🏻 トーマスについて
+### 🧚🏻トーマスについて
 
 [![Gitlab](https://img.shields.io/badge/-thomasjwebb-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/thomasjwebb)
 [![Twitter](https://img.shields.io/badge/-@osakared-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/osakared)
