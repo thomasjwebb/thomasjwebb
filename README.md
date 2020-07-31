@@ -1,8 +1,11 @@
-### 🧚🏻 About Thomas
+[🇯🇵](#日本語)
+
+### 🧜🏻 About Thomas
 
 [![Gitlab](https://img.shields.io/badge/-thomasjwebb-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/thomasjwebb)
 [![Twitter](https://img.shields.io/badge/-@osakared-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/osakared)
 [![LinkedIn](https://img.shields.io/badge/-thomasjwebb-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasjwebb/)
+[![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
@@ -36,6 +39,13 @@ Check out some vegan recipes in [this repo](https://github.com/thomasjwebb/recip
 ### 🦇 Music
 
 I am a drummer, synth player and composer. I am a [certified Bitwig instructor](https://www.bitwig.com/en/community/certified/thomas-webb.html) and have made a [🎹 controller script](https://github.com/osakared/apc-key-25-bitwig) for it. I can also instruct on sound design, how synthesizers (of all types) work, etc. I also record music sometimes - check out my [💿 recent release](https://fanlink.to/werewolf-of-paris).
+
+* [Tarpan](https://tarpan.band/)
+* [The Happy Buttons](https://thehappybuttons.com/)
+
+### 日本語
+
+### 🧜🏻 トーマスについて
 
 <!--
 **thomasjwebb/thomasjwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
