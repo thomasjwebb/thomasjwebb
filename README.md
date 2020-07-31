@@ -1,4 +1,4 @@
-[🇯🇵](#日本語)
+[🇯🇵](README_jp.md)
 
 ### 🧜🏻 About Thomas
 
@@ -42,10 +42,6 @@ I am a drummer, synth player and composer. I am a [certified Bitwig instructor](
 
 * [Tarpan](https://tarpan.band/)
 * [The Happy Buttons](https://thehappybuttons.com/)
-
-### 日本語
-
-### 🧜🏻 トーマスについて
 
 <!--
 **thomasjwebb/thomasjwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
