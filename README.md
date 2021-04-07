@@ -6,7 +6,8 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
  
-**💻 Attending HaxeIn April 15th**
+**💻 Attending HaxeIn April 15th**  
+**💻 Attending RedisConf April 20-21**
 
 [Make my wish come true](https://giffon.io/wish/49NB) at giffon.
 
@@ -38,20 +39,24 @@ I'm into audio programming, machine learning, server, client, web, hit me up if 
 [![linux](https://img.shields.io/badge/linux-%23FCC624.svg?&style=flat&logo=linux&logoColor=white)](https://opensource.com/resources/linux)
 [![freebsd](https://img.shields.io/badge/freebsd-%23AB2B28.svg?&style=flat&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
 
-### 🍺 Homebrew
+### 📷 Photography
 
-I do small batches of all-grain brewing. See my recipes [here](https://snowplant.org/) and also the [profile on untappd](https://untappd.com/SnowPlant). My personal favorites are the [piñon nut brown](https://snowplant.org/pi%C3%B1on_brown/) and [campfire in your eyes](https://snowplant.org/campfire_in_your_eyes/). I am currently working on non-alcoholic and low alcohol brews and preparing for another batch of the piñon this fall.
-
-### 🥙 Cuisine
-
-Check out some vegan recipes in [this repo](https://github.com/thomasjwebb/recipes) also check out [this ig](https://www.instagram.com/shallotsanctuary/) and my occasional [food booth](https://panella.place/).
+See [my project](https://nonbinaryanalog.com).
 
 ### 🦇 Music
 
-I am a drummer, synth player and composer. I am a [certified Bitwig instructor](https://www.bitwig.com/en/community/certified/thomas-webb.html) and have made a [🎹 controller script](https://github.com/osakared/apc-key-25-bitwig) for it. I can also instruct on sound design, how synthesizers (of all types) work, etc. I also record music sometimes - check out my [💿 recent release](https://fanlink.to/werewolf-of-paris).
+I am a drummer, synth player and composer. I am a [certified Bitwig instructor](https://www.bitwig.com/en/community/certified/thomas-webb.html) and have made a [🎹 controller script](https://github.com/osakared/apc-key-25-bitwig) for it. I can also instruct on sound design, how synthesizers (of all types) work, etc. I also record music sometimes - check out my [💿 recent release](https://fanlink.to/werewolf-of-paris) and the new [music video](https://www.youtube.com/watch?v=Vz9ScrZ_FkU) for it. See also the [linktree](https://linktr.ee/handfetish) for my music and.
 
 * [Tarpan](https://tarpan.band/)
 * [The Happy Buttons](https://thehappybuttons.com/)
+
+### 🥙 Cuisine
+
+Check out some vegan recipes on [this website](https://shallotsanctuary.com/) and in [this repo](https://github.com/thomasjwebb/recipes). Also check out [this ig](https://www.instagram.com/shallotsanctuary/) and my occasional [food booth](https://panella.place/).
+
+### 🍺 Homebrew
+
+I do small batches of all-grain brewing. See my recipes [here](https://snowplant.org/) and also the [profile on untappd](https://untappd.com/SnowPlant). My personal favorites are the [piñon nut brown](https://snowplant.org/pi%C3%B1on_brown/) and [campfire in your eyes](https://snowplant.org/campfire_in_your_eyes/).
 
 <!--
 **thomasjwebb/thomasjwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
