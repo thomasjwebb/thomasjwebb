@@ -6,7 +6,7 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**💻 2021/06/07 Attending WWDC Online**
+**💻 2021/06/07 Attending WWDC Online**  
 **🎮 2021/06/12-2021/06/15 Attending E3 Online**
 
 [Make my wish come true](https://giffon.io/wish/49NB) at giffon.
