@@ -6,6 +6,8 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
+**🎮 2021/11/08-2021/11/10 Attending as speaking at [GameSoundCon 2021](https://www.gamesoundcon.com/)** please see my [talk addenda](https://github.com/thomasjwebb/2021-gsc-talk-addenda)
+
 [Make my wish come true](https://giffon.io/wish/49NB) at giffon.
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
