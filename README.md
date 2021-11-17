@@ -7,7 +7,8 @@
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
 **🎮 2021/11/08-2021/11/10 Attending as speaking at [GameSoundCon 2021](https://www.gamesoundcon.com/)** please see my [talk addenda](https://github.com/thomasjwebb/2021-gsc-talk-addenda)  
-**🎹 2021/11/15-2021/11/16 Attending the [Audio Developer Conference](https://audio.dev/)**
+**🎹 2021/11/15-2021/11/16 Attending the [Audio Developer Conference](https://audio.dev/)**  
+** 2021/12/02 Attending the [HaxeIn Haxe Conference](https://community.haxe.org/t/haxein-2021-powered-by-innogames-winter-edition/3316)**
 
 [Make my wish come true](https://giffon.io/wish/49NB) at giffon.
 
