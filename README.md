@@ -6,6 +6,8 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
+**2022/07/28-2022/07/31 Attending [SCALE 19x](https://www.socallinuxexpo.org/scale/19x)**
+
 [Make my wish come true](https://giffon.io/wish/49NB) at giffon.
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
