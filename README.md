@@ -6,7 +6,8 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**2022/07/28-2022/07/31 Attending [SCALE 19x](https://www.socallinuxexpo.org/scale/19x)**
+**2022/07/28-2022/07/31 Attending [SCALE 19x](https://www.socallinuxexpo.org/scale/19x)**  
+**2022/08/01 Attending HaxeUp Sessions Los Angeles 2022**
 
 [Make my wish come true](https://giffon.io/wish/49NB) at giffon.
 
