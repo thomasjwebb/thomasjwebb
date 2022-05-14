@@ -45,7 +45,7 @@ See [my project](https://nonbinaryanalog.com).
 
 ### 🦇 Music
 
-I am a drummer, synth player and composer. I am a [certified Bitwig instructor](https://www.bitwig.com/en/community/certified/thomas-webb.html) and have made a [🎹 controller script](https://github.com/osakared/apc-key-25-bitwig) for it. I can also instruct on sound design, how synthesizers (of all types) work, etc. I also record music sometimes - check out my [💿 recent release](https://fanlink.to/werewolf-of-paris) and the new [music video](https://www.youtube.com/watch?v=Vz9ScrZ_FkU) for it. See also the [linktree](https://linktr.ee/handfetish) for my music and.
+I am a drummer, synth player and composer. I am a [certified Bitwig instructor](https://www.bitwig.com/en/community/certified/thomas-webb.html) and have made a [🎹 controller script](https://github.com/osakared/apc-key-25-bitwig) for it. I can also instruct on sound design, how synthesizers (of all types) work, etc. I also record music sometimes - check out my [💿 new single](https://tarpan.bandcamp.com/album/deploy-pyre-single), my [💿 release from a couple of years ago](https://fanlink.to/werewolf-of-paris) and [music video](https://www.youtube.com/watch?v=Vz9ScrZ_FkU) for it. See also the [linktree](https://biglink.to/tarpan) for my music and other stuff.
 
 * [Tarpan](https://tarpan.band/)
 * [The Happy Buttons](https://thehappybuttons.com/)
