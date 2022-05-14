@@ -9,6 +9,11 @@
 **2022/07/28-2022/07/31 Attending [SCALE 19x](https://www.socallinuxexpo.org/scale/19x)**  
 **2022/08/01 Attending HaxeUp Sessions Los Angeles 2022**
 
+- 🔭 I’m currently working on: new music and some cool new apps!
+- 💬 Ask me about: synthesizers
+- 📫 How to reach me: thomas@thomasjwebb.com
+- 😄 Pronouns: they/them or any
+
 [Make my wish come true](https://giffon.io/wish/49NB) at giffon.
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
