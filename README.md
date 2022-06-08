@@ -8,7 +8,7 @@
 
 **2022/06/17 Attending [INDIGO](https://indigoshowcase.nl/) online meet & match**  
 **2022/07/28-2022/07/31 Attending [SCALE 19x](https://www.socallinuxexpo.org/scale/19x)**  
-**2022/08/01 Attending/Putting on [HaxeHybrid Sessions Los Angeles 2022](https://osakared.com/haxesessions2022)**
+**2022/08/01 Attending/Putting on [HaxeHybrid Sessions Los Angeles 2022](https://osakared.com/haxehybrid2022)**
 
 - 🔭 I’m currently working on: new music and some cool new apps!
 - 💬 Ask me about: synthesizers
