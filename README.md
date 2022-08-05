@@ -6,7 +6,6 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**2022/08/01 Attending/Putting on [HaxeHybrid Sessions Los Angeles 2022](https://osakared.com/haxehybrid2022)**  
 **2022/08/05 Attending [RustConf 2022](https://rustconf.com/) virtually**
 
 - 🔭 I’m currently working on: new music and some cool new apps!
