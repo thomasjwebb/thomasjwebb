@@ -7,7 +7,7 @@
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
 **2022/10/25-26 Attending [GameSoundCon](https://www.gamesoundcon.com/) virtually**  
-**2022/11/14 Attending [Audio Developer Conference ADC 2022](https://audio.dev/conference/) TBD whether in-person or virtually**
+**2022/11/14 Attending [Audio Developer Conference ADC 2022](https://audio.dev/conference/) virtually**
 
 - 🔭 I’m currently working on: new music and some cool new apps!
 - 💬 Ask me about: synthesizers
