@@ -62,7 +62,7 @@ Check out some vegan recipes on [this website](https://shallotsanctuary.com/) an
 
 I do small batches of all-grain brewing. See my recipes [here](https://snowplant.org/) and also the [profile on untappd](https://untappd.com/SnowPlant). My personal favorites are the [piñon nut brown](https://snowplant.org/pi%C3%B1on_brown/) and [campfire in your eyes](https://snowplant.org/campfire_in_your_eyes/).
 
-<a rel="me" href="https://mastodon.social/@thomasjwebb">🦣</a>
+<a rel="me" href="https://mastodon.social/@thomasjwebb">m</a>
 
 <!--
 **thomasjwebb/thomasjwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
