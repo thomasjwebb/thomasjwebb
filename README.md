@@ -6,7 +6,6 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**2022/10/25-26 Attending [GameSoundCon](https://www.gamesoundcon.com/) virtually**  
 **2022/11/14 Attending [Audio Developer Conference ADC 2022](https://audio.dev/conference/) virtually**
 
 - 🔭 I’m currently working on: new music and some cool new apps!
@@ -18,7 +17,7 @@
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
 
-I blog on tech stuff [here](https://webbmaster.com) and live stream open source coding [on twitch](https://www.twitch.tv/osakared/).
+I blog on tech stuff [here](https://webbmaster.com) and [here](https://osakared.com/blog/) and live stream open source coding [on twitch](https://www.twitch.tv/osakared/).
 
 I'm behind the open source haxe audio libs [haxe grig](https://gitlab.com/haxe-grig), plus some other stuff.
 
@@ -62,6 +61,8 @@ Check out some vegan recipes on [this website](https://shallotsanctuary.com/) an
 ### 🍺 Homebrew
 
 I do small batches of all-grain brewing. See my recipes [here](https://snowplant.org/) and also the [profile on untappd](https://untappd.com/SnowPlant). My personal favorites are the [piñon nut brown](https://snowplant.org/pi%C3%B1on_brown/) and [campfire in your eyes](https://snowplant.org/campfire_in_your_eyes/).
+
+<a rel="me" href="https://mastodon.social/@thomasjwebb">🦣</a>
 
 <!--
 **thomasjwebb/thomasjwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
