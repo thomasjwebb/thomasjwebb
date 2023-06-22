@@ -11,8 +11,6 @@
 - 📫 How to reach me: thomas@thomasjwebb.com
 - 😄 Pronouns: they/them or any
 
-[Make my wish come true](https://giffon.io/wish/49NB) at giffon.
-
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
 
 I blog on tech stuff [here](https://webbmaster.com) and [here](https://osakared.com/blog/) and live stream open source coding [on twitch](https://www.twitch.tv/osakared/).
