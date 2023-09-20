@@ -6,7 +6,6 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**2023/09/13-14 Attending RustConf Virtually**  
 **2023/10/17-18 Attending [GameSoundConf](https://www.gamesoundcon.com/) Virtually**  
 **2023/10/30-11/2 Attending ODSC West Virtually**
 
