@@ -22,6 +22,12 @@ I'm behind the open source haxe audio libs [haxe grig](https://gitlab.com/haxe-g
 
 I'm into audio programming, machine learning, server, client, web, hit me up if you have similar interests.
 
+Talks (not exhaustive, let me know if any other talks I've done are publicly available):
+
+- Bringing Back The Sound Chip - GameSoundCon 2021 (just the slides, the talk is not available)
+- [Real Time Audio Programming in Haxe](https://www.youtube.com/watch?v=4leDPgO5N2o) - HaxeIn 2020
+- [Audio Development With Haxe](https://www.youtube.com/watch?v=IQs2a2KHlpk) - Haxe Summit Seattle 2019
+
 プログラマーです。[Osaka Red LLC](https://osakared.io)としてソフトウェアコンサルチングしています。
 
 [ここ](https://webbmaster.com)でテクノロジーについてのブログをしています。残念ながら全部は英語です。
