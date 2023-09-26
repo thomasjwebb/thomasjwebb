@@ -24,6 +24,7 @@ I'm into audio programming, machine learning, server, client, web, hit me up if 
 
 Talks (not exhaustive, let me know if any other talks I've done are publicly available):
 
+- [Domain-Specific Languages in Haxe](https://www.youtube.com/watch?v=uvF0YYRlUsw) - HaxeHybrid 2022 (which I put on and ended up being primarily online)
 - [Bringing Back The Sound Chip](https://raw.githubusercontent.com/thomasjwebb/thomasjwebb/main/presentations/Bringing%20Back%20The%20Sound%20Chip.pdf) - GameSoundCon 2021 (just the slides, the talk is not available)
 - [Real Time Audio Programming in Haxe](https://www.youtube.com/watch?v=4leDPgO5N2o) - HaxeIn 2020
 - [Audio Development With Haxe](https://www.youtube.com/watch?v=IQs2a2KHlpk) - Haxe Summit Seattle 2019
