@@ -6,7 +6,6 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**2023/10/30-11/2 Attending ODSC West Virtually**  
 **2023/11/13-15 Attending [ADC Audio Developer Conference](https://adc23.sched.com) Virtually**
 
 - 🔭 I’m currently working on: new music and some cool new apps!
