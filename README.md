@@ -1,7 +1,6 @@
 ### 🧜🏻トーマスについて
 
 [![Gitlab](https://img.shields.io/badge/-thomasjwebb-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/thomasjwebb)
-[![LinkedIn](https://img.shields.io/badge/-thomasjwebb-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasjwebb/)
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
