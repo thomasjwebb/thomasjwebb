@@ -1,12 +1,9 @@
 ### 🧜🏻トーマスについて
 
 [![Gitlab](https://img.shields.io/badge/-thomasjwebb-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/thomasjwebb)
-[![Twitter](https://img.shields.io/badge/-@osakared-1ca0f1?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/osakared)
 [![LinkedIn](https://img.shields.io/badge/-thomasjwebb-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thomasjwebb/)
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
-
-**2024/01/28 Attending [NAMM](https://www.namm.org/) In-Person**
 
 - 🔭 I’m currently working on: new music and some cool new apps!
 - 💬 Ask me about: synthesizers
