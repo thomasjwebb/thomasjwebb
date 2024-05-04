@@ -4,10 +4,10 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-- 🔭 I’m currently working on: new music and some cool new apps!
+- 🔭 I’m currently working on: interesting fediverse integrations
 - 💬 Ask me about: synthesizers
 - 📫 How to reach me: thomas@thomasjwebb.com
-- 😄 Pronouns: they/them or any
+- 😄 Pronouns: they/them
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
 
