@@ -4,6 +4,8 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
+**2024/09/12-2024/09/14 Attending [FediForum Online](https://fediforum.org/)**  
+
 - 🔭 I’m currently working on: interesting fediverse integrations
 - 💬 Ask me about: synthesizers
 - 📫 How to reach me: thomas@thomasjwebb.com
