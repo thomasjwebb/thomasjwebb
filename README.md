@@ -5,7 +5,7 @@
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
 **2024/09/12-2024/09/14 Attending [FediForum Online](https://fediforum.org/)**  
-**2024/09/10-2024/09/13 Attending [RustConf](https://rustconf.com/) (TBD whether online or in-person)**  
+**2024/09/10-2024/09/13 Attending [RustConf](https://rustconf.com/) in-person**  
 **2024/10/22-2024/10/23 Attending [Music Tectonics 2024 Conference](https://www.musictectonics.com/)**  
 **2024/11/11-2024/11/13 Attending [ADC](https://audio.dev/) online**  
 
