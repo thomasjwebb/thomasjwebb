@@ -4,14 +4,13 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**2024/12/15 Attending [Haxe Roundup Roundup](https://discord.com/invite/0uEuWH3spjck73Lo)**  
+**2024/01/12 Attending [Haxe Roundup Roundup](https://discord.com/invite/0uEuWH3spjck73Lo)**  
+**2024/01/23-25 Attending [NAMM](https://www.namm.org/) in-person**  
 
 - 🔭 I’m currently working on: interesting fediverse integrations
 - 💬 Ask me about: synthesizers
 - 📫 How to reach me: thomas@thomasjwebb.com
 - 😄 Pronouns: they/them
-
-**2024/01/23-25 Attending [NAMM](https://www.namm.org/) in-person**  
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
 
