@@ -11,6 +11,8 @@
 - 📫 How to reach me: thomas@thomasjwebb.com
 - 😄 Pronouns: they/them
 
+**2024/01/23-25 Attending [NAMM](https://www.namm.org/) in-person**  
+
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
 
 I blog on tech stuff [here](https://webbmaster.com) and [here](https://osakared.com/blog/) and live stream open source coding [on twitch](https://www.twitch.tv/osakared/).
