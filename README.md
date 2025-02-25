@@ -49,7 +49,7 @@ Talks (not exhaustive, let me know if any other talks I've done are publicly ava
 
 ### 📷 Photography
 
-I have been into photography my whole life and you can see a steady stream of my photos at [my flickr](https://www.flickr.com/photos/7297815@N08/) or a more curated feed at my [photography blog](https://nonbinaryanalog.com). Self-hosted pixelfed coming soon but this blog is also on the fediverse at `@admin@nonbinaryanalog.com`. I shoot both digital and film and develop b&w myself to control the kinds of results I get.
+I have been into photography my whole life and you can see a steady stream of my photos at [my flickr](https://www.flickr.com/photos/7297815@N08/) or a more curated feed at my [photography blog](https://nonbinaryanalog.com). Self-hosted pixelfed at `@nonbinaryanalog@social.nonbinaryanalog.com` and the wordpress at `@admin@nonbinaryanalog.com` on the fediverse. I shoot both digital and film and develop b&w myself to control the kinds of results I get.
 
 ### 🦇 Music
 
