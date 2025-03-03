@@ -1,6 +1,6 @@
 ### 🧜🏻トーマスについて
 
-[![codeberg]([https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](https://codeberg.org/thomasjwebb)
+[![codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](https://codeberg.org/thomasjwebb)
 [![Gitlab](https://img.shields.io/badge/-thomasjwebb-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/thomasjwebb)
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
