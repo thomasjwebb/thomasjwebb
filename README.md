@@ -5,7 +5,7 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**2025/03/09 Attending [Haxe Roundup Roundup](https://discord.com/invite/0uEuWH3spjck73Lo)**  
+**2025/04/06 Attending [Haxe Roundup Roundup](https://discord.com/invite/0uEuWH3spjck73Lo)**  
 **2025/04/01-02 Attending [FediForum](https://fediforum.org/)**  
 
 - 🔭 I’m currently working on: interesting fediverse integrations
