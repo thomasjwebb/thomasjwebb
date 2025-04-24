@@ -11,7 +11,7 @@ This is just a page I put up to help tech people get a hold of me, see what I've
 ## Find Me
 
 **@thomasjwebb**  
-Find me on [codeberg](https://codeberg.org/thomasjwebb), [codeberg](https://codeberg.org/thomasjwebb), [github](https://github.com/thomasjwebb/), [gitlab](https://gitlab.com/thomasjwebb) and [Fediverse](https://haxe.social/@tjw).
+Find me on [codeberg](https://codeberg.org/thomasjwebb), [github](https://github.com/thomasjwebb/), [gitlab](https://gitlab.com/thomasjwebb) and [Fediverse](https://haxe.social/@tjw).
 You can also [e-mail me](mailto:thomas@thomasjwebb.com) or [request a meeting on Calendly](https://calendly.com/thomasjwebb/30min).
 
 **@osakared**  
