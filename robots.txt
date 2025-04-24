@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cv/
+Disallow: /resume/
+Disallow: /resume_print/
