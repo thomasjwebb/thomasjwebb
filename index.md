@@ -14,10 +14,10 @@ This is just a page I put up to help tech people get a hold of me, see what I've
 Find me on [codeberg](https://codeberg.org/thomasjwebb), [codeberg](https://codeberg.org/thomasjwebb), [github](https://github.com/thomasjwebb/), [gitlab](https://gitlab.com/thomasjwebb) and [Fediverse](https://haxe.social/@tjw).
 You can also [e-mail me](mailto:thomas@thomasjwebb.com) or [request a meeting on Calendly](https://calendly.com/thomasjwebb/30min).
 
-**@osakared**
+**@osakared**  
 Find me on [Fediverse](https://haxe.social/@osakared) and [twitch](https://www.twitch.tv/osakared).
 
-**chat**
+**chat**  
 Message me on Matrix (@thomas:osakared.com) or [discord (tamsynne)](https://discord.com/users/tamsynne).
 
 ## Portfolio

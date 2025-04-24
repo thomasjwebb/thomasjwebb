@@ -287,6 +287,7 @@ PLATFORMS
 DEPENDENCIES
   cvless (~> 2.6)
   erb (~> 4.0, >= 4.0.4)
+  jekyll-optional-front-matter
 
 BUNDLED WITH
    2.4.14

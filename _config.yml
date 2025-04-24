@@ -1,35 +1,35 @@
 title: Thomas J. Webb
-description: Jekyll theme for a beautiful online CV
+description: Webb Master
 baseurl: ""
 url: https://thomasjwebb.github.io/thomasjwebb/
 
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+taglong: Webb Master
+tagshort: Webb Master
 cv: true
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Thomas J. Webb
+  email: thomas@thomasjwebb.com
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address: Sparks, NV, USA
+# phone: +1 234 567 890
 
 # profile links
 profile:
   # facebook: https://www.facebook.com/username
   # x: https://x.com/username
-  mastodon: https://mastodon.social/@username
+  mastodon: https://haxe.social/@tjw
   # bluesky: https://bsky.app/profile/username.bsky.social
   # instagram: https://www.instagram.com/username
-  linkedin: https://www.linkedin.com/in/username
+  linkedin: https://www.linkedin.com/in/thomasjwebb/
   # xing: https://www.xing.com/profile/username
   # stackoverflow: https://stackoverflow.com/users/0000000/username
   # medium: https://medium.com/@username
-  github: https://github.com/username
+  github: https://github.com/thomasjwebb
 
 # build settings
 permalink: pretty
@@ -46,6 +46,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-optional-front-matter
 
 sass:
   sourcemap: never
