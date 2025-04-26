@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Just so Stories About Kodak's Downfall"
+date:   2018-02-26 9:30:15 -0800
+categories: film business b2b digital photography
+---
+People love stories about big unwieldy corporations meeting their demise because they couldn't innovate and while that certainly happens, the cartoonish way the narrative is applied to Kodak just misunderstands what happened and how technology works.
+
+First of all, the idea that they failed because they didn't recognize the potential of digital cameras is such a small part of the story. While they were sluggish to embrace digital, the fact remains that _there is no digital equivalent of the film business_. It would be fair to make the claim if Kodak's consumer division was primarily about selling cameras or if a camera manufacturer who didn't make film made such a mistake. But that's not what happened. [This article in Forbes](https://www.forbes.com/sites/chunkamui/2012/01/18/how-kodak-failed/#65acff7a6f27), which gets other things right, makes the bad comparison:
+
+> In fact, Kodak made exactly the mistake that George Eastman, its founder, avoided twice before, when he gave up a profitable dry-plate business to move to film and when he invested in color film even though it was demonstrably inferior to black and white film (which Kodak dominated).
+
+Digital sensors were a disruptive technology which drastically reduced the total amount of money to be made off consumers because you have to keep buying film to take pictures with a film camera. While color film is analogous to black and white, film to plates in this respect, there is no digital product that must be continuously bought at the same rate to take pictures. Sure there's inkjet paper for printing, but interest in printing too declined with the rise of the internet. That's a good thing for the general public but a bad thing if film was your cash cow. Consumer digital cameras aren't that lucrative of a business. In any event, it's something a camera company would be satisfied with but not one of the giants that made film.
+
+As it stands currently, companies making digital cameras are doing poorly as consumers often just rely on the camera always in their pocket, their phones. Digital cameras never had real potential to be a cash cow. The natural barriers to entry in chip manufacturing just aren't there and as a result digital sensors are more or less a commodity. Kodak could have tried harder to bring digital cameras out but that probably would have hastened their demise if anything.
+
+So the only thing they could have done is invest in separate enterprises. Which they did, with mixed success. Eastman Chemical was spun off from Kodak and they remain successful. They don't bear the burden of having lost money trying to get into digital cameras. Always remember too that b2b is a big part of any big business so you can't judge their success by which of their products you can get at your drug store.
+
+It's also not correct that Kodak didn't innovate in the area of digital photography nor that they could have released viable digital photography products much earlier. If anything, they overestimated the potential market for high-end digital backs and suffered from being the first mover. Earlier in their history when they had the first prototype of a digital camera, computers just weren't ready to store, much less process any image that meets most customers' image quality needs. Kodak themselves weren't going to change that simply by being more "open to change".
+
+I've even heard some people (not articles but just one-off comments) suggesting the film business was losing money. That's silly. That's not how things work. If their film business was losing money, they would have simply closed the factories. Companies are only willing to lose money when it's a new venture and its exactly in newer ventures that Kodak lost money. Their film division wasn't nearly as lucrative as it used to be and that means they had to find other revenue sources. In the latest bankruptcy, Kodak sold their still photography film business, and that resulted in yet another spinoff, Kodak Alaris, which is doing well and even bringing back previously canceled emulsions. They retained their movie film business, which is still one of the more reliable sources of revenue for them. Whether Kodak itself survives or not is another story, one that hinges on b2b products not consumer photography.
+
+So not saying Kodak wasn't mismanaged, but just to not buy the overly simplistic narrative that fails to grasp just how disruptive digital photography was.

@@ -24,29 +24,14 @@ Message me on Matrix (@thomas:osakared.com) or [discord (tamsynne)](https://disc
 
 {% include portfolio.html %}
 
-## Writings
-
-
-[Avoiding Social Media Lock-In With ActivityPub](https://osakared.com/blog/2023-07-09-avoiding-social-medial-lockin)  
-2023-07-09  
-Small and larger businesses are well aware of the importance of owning their online presence and diversifying their social media strategy...
-
-[The Company is Sometimes Wrong](https://osakared.com/blog/2022-02-15-the-company-is-sometimes-wrong)  
-2022-02-15  
-The bane of every retail worker's existence is the old saying, “the customer is always right”...
-
-[Strengths and Weaknesses of Using Haxe for Audio Development](https://thomaswebb.net/2019/05/10/strengths-and-weaknesses-of-using-haxe-for-audio-development/)  
-2019-05-10  
-At the Haxe Summit, I did a talk about doing audio programming in haxe...
-
-[Static Websites with Terraform, Netlify and NS1](https://thomaswebb.net/2018/03/22/static-websites-with-terraform-netlify-and-ns1/)  
-2018-03-22  
-This is a wider card with supporting text below as a natural lead-in to additional content.
-
 ## Overview
 
 The below is copied from my [github page](https://github.com/thomasjwebb/)
 
 {% include_relative README.md %}
+
+## Posts
+
+I mostly write through other outlets now, but old static posts of mine are below
 
 {% include archive.html %}

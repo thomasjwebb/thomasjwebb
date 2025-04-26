@@ -32,7 +32,7 @@ profile:
   github: https://github.com/thomasjwebb
 
 # build settings
-permalink: pretty
+permalink: /:year/:month/:title
 exclude:
   - LICENSE
   - README.md
