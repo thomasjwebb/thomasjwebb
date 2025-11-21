@@ -8,7 +8,7 @@ theme: cvless
 # site settings
 taglong: Webb Master
 tagshort: Webb Master
-cv: true
+cv: false
 
 # author settings
 author:
