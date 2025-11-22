@@ -1,4 +1,4 @@
-title: Thomas J. Webb
+title: Thommy Webb
 description: Webb Master
 baseurl: ""
 url: https://thomasjwebb.com/
@@ -8,13 +8,12 @@ theme: cvless
 # site settings
 taglong: Webb Master
 tagshort: Webb Master
-cv: false
 
 # author settings
 author:
   name: Thomas J. Webb
   email: thomas@thomasjwebb.com
-photo: assets/files/thommy.jpg
+photo: assets/files/thommy.png
 address: Sparks, NV, USA
 # phone: +1 234 567 890
 
@@ -23,13 +22,14 @@ profile:
   # facebook: https://www.facebook.com/username
   # x: https://x.com/username
   mastodon: https://haxe.social/@tjw
-  # bluesky: https://bsky.app/profile/username.bsky.social
+  bluesky: https://bsky.app/profile/tjw.haxe.social
   # instagram: https://www.instagram.com/username
   linkedin: https://www.linkedin.com/in/thomasjwebb/
   # xing: https://www.xing.com/profile/username
   # stackoverflow: https://stackoverflow.com/users/0000000/username
   # medium: https://medium.com/@username
   github: https://github.com/thomasjwebb
+  cv: false
 
 # build settings
 permalink: /:year/:month/:title
