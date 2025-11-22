@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-# Thomas J. Webb
+# Thommy Webb
 
 This is just a page I put up to help tech people get a hold of me, see what I've worked on or what I'm currently working on. If you feel like chatting about technology or have an idea feel free to contact me any of the ways listed below.
 
