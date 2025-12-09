@@ -7,18 +7,18 @@
 
 **2026/01 Attending [NAMM](https://www.namm.org/)**  
 
-- 🔭 I’m currently working on: interesting fediverse integrations
+- 🔭 I’m currently working on: open source audio frameworks
 - 💬 Ask me about: synthesizers
 - 📫 How to reach me: thomas@thomasjwebb.com
 - 😄 Pronouns: they/them
 
-I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io).
+I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io). You can support my open source work at [ko-fi](https://ko-fi.com/tamsynne).
 
 I blog on tech stuff [here](https://webbmaster.com) and [here](https://osakared.com/blog/) and live stream open source coding [on twitch](https://www.twitch.tv/osakared/).
 
 I'm behind the open source haxe audio libs [haxe grig](https://gitlab.com/haxe-grig), plus some other stuff.
 
-I'm into audio programming, machine learning, server, client, web, hit me up if you have similar interests.
+I'm into audio programming, machine learning, server, client, web, hit me up if you have similar interests. Note that my public activity is increasingly moving from github and gitlab to codeberg.
 
 Talks (not exhaustive, let me know if any other talks I've done are publicly available):
 
