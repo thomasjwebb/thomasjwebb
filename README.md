@@ -7,10 +7,10 @@
 
 **2026/01 Attending [NAMM](https://www.namm.org/)**  
 
-- 🔭 I’m currently working on: open source audio frameworks
-- 💬 Ask me about: synthesizers
+- 🎛️ I’m currently working on: open source audio frameworks
+- 💬 Ask me about: synthesizers 🎹
 - 📫 How to reach me: thomas@thomasjwebb.com
-- 😄 Pronouns: they/them
+- 🏳️‍⚧️ Pronouns: they/them
 
 I'm a software engineer. I consult through [Osaka Red LLC](https://osakared.io). You can support my open source work at [ko-fi](https://ko-fi.com/tamsynne).
 
