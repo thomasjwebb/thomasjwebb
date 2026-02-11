@@ -5,7 +5,8 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
-**2026/03/09 Attending [GDC](https://gdconf.com/)**  
+**2026/03 Attending [GDC](https://gdconf.com/)**  
+**2026/04 Attending [FediForum](https://fediforum.org/2026-04/) online**  
 
 - 🎛️ I’m currently working on: open source audio frameworks
 - 💬 Ask me about: synthesizers 🎹
