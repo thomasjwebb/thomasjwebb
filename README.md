@@ -51,30 +51,16 @@ I have been into photography my whole life and you can see a steady stream of my
 
 ### 🦇 Music
 
-I am a drummer, synth player and composer. I am a [certified Bitwig instructor](https://www.bitwig.com/certified/thomas-webb-8/) and have made a [🎹 controller script](https://github.com/osakared/apc-key-25-bitwig) for it. I can also instruct on sound design, how synthesizers (of all types) work, etc. I also record music sometimes - check out my [💿 new single](https://tarpan.bandcamp.com/album/deploy-pyre-2), my [💿 release from a couple of years ago](https://fanlink.to/werewolf-of-paris) and [music video](https://www.youtube.com/watch?v=Vz9ScrZ_FkU) for it. See also the [linktree](https://biglink.to/tarpan) for my music and other stuff.
+I am a drummer, synth player and composer. I am a [certified Bitwig instructor](https://www.bitwig.com/certified/thomas-webb-8/) and have made a [🎹 controller script](https://codeberg.org/grig/apc-key-25-bitwig) for it. I can also instruct on sound design, how synthesizers (of all types) work, etc. I also record music sometimes - check out my [💿 new single](https://tarpan.bandcamp.com/album/deploy-pyre-2), my [💿 release from a couple of years ago](https://fanlink.to/werewolf-of-paris) and [music video](https://www.youtube.com/watch?v=Vz9ScrZ_FkU) for it. See also the [linktree](https://biglink.to/tarpan) for my music and other stuff.
 
 * [Tarpan](https://tarpan.band/)
 * [The Happy Buttons](https://thehappybuttons.com/)
 
 ### 🥙 Cuisine
 
-Check out some vegan recipes on [this website](https://shallotsanctuary.com/) and in [this repo](https://github.com/thomasjwebb/recipes). Also check out [this ig](https://www.instagram.com/shallotsanctuary/) and my occasional [food booth](https://panella.place/).
+Check out some vegan recipes on [this website](https://shallotsanctuary.com/) and in [this repo](https://codeberg.org/thomasjwebb/recipes). Also check out [this ig](https://www.instagram.com/shallotsanctuary/) and my occasional [food booth](https://panella.place/).
 
 ### 🍺 Homebrew
 
 I do small batches of all-grain brewing. See my recipes [here](https://snowplant.org/) and also the [profile on untappd](https://untappd.com/SnowPlant). My personal favorites are the [piñon nut brown](https://snowplant.org/pi%C3%B1on_brown/) and [campfire in your eyes](https://snowplant.org/campfire_in_your_eyes/).
 
-<!--
-**thomasjwebb/thomasjwebb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
