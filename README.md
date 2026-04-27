@@ -5,6 +5,8 @@
 [![bandcamp](https://img.shields.io/badge/-pinkboi-408294?style=flat-square&logo=bandcamp&logoColor=white)](https://bandcamp.com/pinkboi)
 [![email](https://img.shields.io/badge/-thomas@thomasjwebb.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:thomas@thomasjwebb.com)
 
+**2026/04 Attending [FediForum](https://events.humanitix.com/fediforum-april-2026)**  
+
 - 🎛️ I’m currently working on: open source audio frameworks
 - 💬 Ask me about: synthesizers 🎹
 - 📫 How to reach me: thomas@thomasjwebb.com
